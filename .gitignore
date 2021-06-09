@@ -1,0 +1,4 @@
+.vscode*
+.env
+.env.remote
+node_modules
